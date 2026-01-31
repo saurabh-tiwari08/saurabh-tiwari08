@@ -1,63 +1,60 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/saurabh-tiwari08)
 
-<h1 align="center">Hey there 👋, I'm Saurabh Tiwari</h1>
+<h1 align="center">Hey 👋, I'm Saurabh Tiwari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;CSE+Undergrad+%7C+2026;Building+Scalable+Web+Apps;Solving+DSA+One+Problem+at+a+Time" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Intern+%7C+2026;Full-Stack+Developer;AI+%26+ML+Enthusiast;Open+to+Internship+%26+Full-Time+Roles" />
 </p>
 
 <h3 align="center">
-CSE Undergraduate (2026) passionate about Full-Stack Development, AI-driven products, and problem solving.
-I love building scalable systems and optimizing real-world solutions.
+Computer Science undergraduate (CSE’26) actively seeking <b>Software Engineering Intern</b> and <b>Full-Time</b> opportunities.
+Strong in Full-Stack Development, AI-driven systems, and Data Structures & Algorithms.
 </h3>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="390" height="219"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="380" />
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=saurabh-tiwari08&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-- 🔭 Currently working on **AI-powered & full-stack web applications**
-- 🚀 Built **Assessify – AI Mock Interview Platform** using Next.js, Gemini AI & PostgreSQL
-- 🧠 Experience in **ML research projects** with 95%+ accuracy models
-- 🌱 Learning **System Design, Advanced DSA, and Machine Learning**
-- 👯 Open to collaborating on **Open Source, Full-Stack & AI projects**
-- 💬 Ask me about **Next.js, React, REST APIs, DSA, or ML**
-- 📫 Reach me at **saurabh03tiwari@gmail.com**
-- ⚡ Fun fact: Solved **350+ DSA problems** and still enjoy debugging 😄
+<h3>🔍 What I’m Looking For</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- 🎯 **Software Engineering Internships & Full-Time roles (2026)**
+- 💻 Roles involving **Backend / Full-Stack / AI-driven systems**
+- 🚀 Teams focused on **scalable products and real-world impact**
+
+<h3>🧑‍💻 What I Do</h3>
+
+- 🔭 Building **production-grade full-stack applications** using Next.js, Node.js, and PostgreSQL  
+- 🤖 Developed **Assessify – AI Mock Interview Platform** using Gemini AI (500+ mock interviews processed)  
+- 🧠 Worked on **Machine Learning models** with up to **95%+ accuracy**  
+- 🌱 Strengthening **System Design, Backend Architecture, and Advanced DSA**
+
+<h3>🛠 Tech Stack</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,postgres,mongodb,tailwind,git,github,azure" />
+</p>
+
+<h3>🏆 Achievements</h3>
+
+- 🏅 **SWE Intern Offer – DocuSign International India Pvt. Ltd. (May 2025)**  
+- 🏆 **Qualified HackWithInfy 2025** (Infosys national-level coding contest)  
+- 🚀 **Top 11.8% globally** in LeetCode Biweekly Contest 134 (Global Rank 3010)  
+- 🧠 Solved **350+ DSA problems** across LeetCode, CodeChef & GFG  
+- 🧪 **IEEE UCER-2025** research paper presenter (ML-based stress classification)  
+- 👥 Shortlisted up to **Round 3 – Adobe India Hackathon 2025**
+
+<h3>📬 Let’s Connect</h3>
+
+<p>
 <a href="https://www.linkedin.com/in/saurabh-tiwari-a399701ab/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
 </a>
-<a href="https://leetcode.com/u/saurabh_tiwari_ucer/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
+<a href="mailto:saurabh03tiwari@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
 </a>
-<a href="https://www.codechef.com/users/saurabh3tiwari" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" width="40"/>
+<a href="https://github.com/saurabh-tiwari08">
+<img src="https://img.shields.io/badge/GitHub-Projects-black?logo=github" />
 </a>
-<a href="https://github.com/saurabh-tiwari08" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40"/>
-</a>
-</p>
-
-<h3 align="left">🛠 Tech Stack:</h3>
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,react,nextjs,nodejs,express,postgres,mongodb,tailwind,git,github,azure" />
-</p>
-
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh-tiwari08&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabh-tiwari08&show_icons=true&locale=en" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh-tiwari08" />
 </p>
